@@ -1,0 +1,10 @@
+exports.loginIssue = "There seems to be an issue with the username/password combination that you entered";
+exports.noLogin = "You are not currently logged in";
+exports.illegalInput = "The input you provided is not valid";
+exports.success = "The action was successful";
+exports.logout = "You have been successfully logged out";
+exports.notAdmin = "You must be an admin to perform this action";
+exports.noUsers = "There are no users that match that criteria";
+exports.noProducts = "There are no products that match that criteria";
+exports.userInfo = ["fname", "lname", "address", "city", "state", "zip", "email", "username", "password"];
+exports.productInfo = ["asin", "productName", "productDescription", "group"];

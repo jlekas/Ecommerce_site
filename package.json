@@ -1,0 +1,26 @@
+{
+  "name": "project2",
+  "version": "1.0.0",
+  "description": "17-648 Project 2",
+  "main": "app.js",
+  "scripts": {
+    "test": "artillery run "
+  },
+  "author": "James Lekas",
+  "license": "ISC",
+  "dependencies": {
+    "artillery": "^1.6.0-7",
+    "aws-sdk": "^2.145.0",
+    "bluebird": "^3.5.0",
+    "body-parser": "^1.18.1",
+    "client-sessions": "^0.8.0",
+    "co": "^4.6.0",
+    "co-mysql": "^1.0.0",
+    "eslint": "^4.10.0",
+    "express": "^4.15.4",
+    "express-session": "^1.15.5",
+    "line-reader": "^0.4.0",
+    "mysql": "^2.14.1",
+    "session-file-store": "^1.1.2"
+  }
+}
